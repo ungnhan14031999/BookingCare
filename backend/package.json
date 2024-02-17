@@ -24,7 +24,6 @@
     "single": "^0.2.1"
   },
   "devDependencies": {
-    "babel-register": "^6.26.0",
     "sequelize-cli": "^6.6.2"
   }
 }
